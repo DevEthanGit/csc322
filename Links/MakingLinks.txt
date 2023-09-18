@@ -1,0 +1,2 @@
+ln -s ~/labTask2/Originals/HardStuff ~/labTask2/Links/LinkToHardStuff 
+ln -s ~/labTask2/Originals/SoftStuff ~/labTask2/Links/RelativeToSoftStuff

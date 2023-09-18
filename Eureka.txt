@@ -1,0 +1,3 @@
+gcc path: /usr/bin
+path to groups: /etc/group
+path to spool: /var/spool/cups

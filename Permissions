@@ -1,0 +1,4 @@
+mkdir IveGotRights
+chmod 711 IveGotRights
+ls [a-zA-Z]*[0-9]*.[a-z][a-z]??
+
